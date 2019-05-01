@@ -1,0 +1,4 @@
+Changed the Excel file to a tab delimited text file and then run the script below. 
+
+perl -e 's/[\x80-\xFF]//g' -p Work/Xiphias/xsl/escape.xml
+
