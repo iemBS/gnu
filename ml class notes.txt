@@ -1,0 +1,5 @@
+-model selection 
+-polynomial degree
+-training, cross validation and test set
+-determine high bias (underfit), high variance (overfit)
+-regularization on Cost function and gradient
