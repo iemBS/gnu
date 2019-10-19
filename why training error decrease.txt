@@ -1,0 +1,3 @@
+The training error will tend to decrease as we increase the degree d of the polynomial.
+
+At the same time, the cross validation error will tend to decrease as we increase d up to a point, and then it will increase as d is increased, forming a convex curve.
